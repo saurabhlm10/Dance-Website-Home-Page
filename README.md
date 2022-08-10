@@ -7,5 +7,6 @@
 - `::before` was used to create the artificial list bullet icons. 
 - `display:inline-block` and `vertical-align:middle` was used to align the list bullet with the text.
 ***
+# [Deployed Link](https://saurabh-dance-website-home-page.netlify.app/)
 
 ## Time Taken to Complete Project: **4 hours**
