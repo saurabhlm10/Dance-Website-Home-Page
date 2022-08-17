@@ -95,7 +95,7 @@ nav{
 }
 
 .header-left h1{
-
+    border: 2px solid black;
     font-size: 135px;
     line-height: 115px;
     margin-left: 1vw;
@@ -108,8 +108,6 @@ nav{
     font-size: 135px;
     line-height: 115px;
     margin-left: 12vw;
-    
-
 }
 
 .header-middle{
